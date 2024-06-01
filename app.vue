@@ -1,5 +1,6 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <CharacterHeader />
+    <CharacterGuess />
   </div>
 </template>
